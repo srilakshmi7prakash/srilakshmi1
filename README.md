@@ -2,3 +2,4 @@
 edited from git hub
 dog lives inside the house
 humans lives inside  the house
+the weather is crazy
